@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159500138075",
+    "project_id": "cloud-functions-test-5c0d8",
+    "storage_bucket": "cloud-functions-test-5c0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159500138075:android:f2d69ef37ea5f1082cb17e",
+        "android_client_info": {
+          "package_name": "com.rayhan.cloudfnctiontesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159500138075-aq6d7fs5hkt9a0mjl14c95b9rctqgm7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGzIz5WP8H-q1_z19S00B71T2n-XxpX1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159500138075-aq6d7fs5hkt9a0mjl14c95b9rctqgm7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
